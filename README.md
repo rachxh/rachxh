@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I am a student based in Helsinki
--->
+
