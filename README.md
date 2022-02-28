@@ -4,7 +4,7 @@
 --Full stack web developer in making
 
 I am on a new journey of becoming a developer. Currently, I am studying full-stack web development in Helsinki. I really enjoy learning languages and frameworks like javascript and React, as well as wireframing, UI, UX, and design in general. 
-
+<a href="https://gifs.alphacoders.com/gifs/view/209541"><img src="https://giffiles.alphacoders.com/209/209541.gif"></a>
 ### Skills and Experience: 
 * ⚛️ REACT
 * 💻 JS / HTML / CSS
