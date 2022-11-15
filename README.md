@@ -1,7 +1,6 @@
 <!-- <a href="http://gifgifs.com/" title="http://gifgifs.com"><img src="http://gifgifs.com//animations/anime/doraemon/doraemon_1.gif" border=0 alt="http://gifgifs.com" /></a><br/><a href="http://gifgifs.com/"></a>
 <a href="http://gifgifs.com/" title="http://gifgifs.com"><img src="http://gifgifs.com//animations/anime/doraemon/doraemon_10.gif" border=0 alt="http://gifgifs.com" /></a><br/><a href="http://gifgifs.com/"></a> -->
 
-<a href="https://c.tenor.com/rYBgjsA-wZYAAAAi/doraemon.gif"><img src="https://c.tenor.com/rYBgjsA-wZYAAAAi/doraemon.gif"></a>
 ### Hi there 👋, my name is Rachel
 --Full stack web developer in making
 
